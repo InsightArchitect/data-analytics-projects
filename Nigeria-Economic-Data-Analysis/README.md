@@ -10,10 +10,9 @@ This project analyzes key economic indicators of Nigeria to uncover trends and i
 - Generate insights useful for business and policy decisions
 
 ## Tools Used
-- Python
-- Pandas
-- Matplotlib
-- Jupyter Notebook
+- Microsoft Excel
+- Power BI
+- SQL
 
 ## Dataset
 World Bank Nigeria Economic Indicators Dataset
