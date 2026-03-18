@@ -1,5 +1,7 @@
 # Nigeria Macroeconomic Data Analysis
 
+![](nig_img.jpg)
+
 ## Project Overview
 
 This project presents a structured macroeconomic analysis of Nigeria using key economic indicators, including GDP growth, inflation, oil rents, unemployment, and population data. 
@@ -72,7 +74,7 @@ Explores relationships among GDP growth, inflation, oil rents, unemployment, and
 
 ---
 
-## Visualization & Analysis
+## Visualization
 
 ### 1. GDP Growth Trend Analysis
 ![Nigeria GDP Growth Trend](gdp_trend_chart.png)
