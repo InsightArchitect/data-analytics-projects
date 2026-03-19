@@ -96,7 +96,7 @@ The analysis highlights structural volatility in Nigeria’s macroeconomic perfo
 ### 2. Inflation Trend Analysis 
 ## Analysis → Comparative Analysis
 
-![]()
+![](gdp_inflation_chart.png)
 
 ---
 ### GDP Growth and Inflation Relationship Insight
