@@ -48,7 +48,7 @@ The analysis followed a structured data processing approach:
 
 - Microsoft Excel (Data Cleaning, Transformation, Analysis)
 - Excel Charts (Visualization)
-- Power BI
+- Power BI (Dashboard)
 
 ---
 
@@ -92,3 +92,19 @@ Explores relationships among GDP growth, inflation, oil rents, unemployment, and
 ## Conclusion
 
 The analysis highlights structural volatility in Nigeria’s macroeconomic performance and establishes a foundation for further multi-variable economic evaluation.
+
+### 2. Inflation Trend Analysis 
+## Analysis → Comparative Analysis
+
+![]()
+
+---
+### GDP Growth and Inflation Relationship Insight
+
+- The comparative analysis between GDP growth and inflation reveals a generally inverse and unstable relationship over time.
+- There are periods of high inflation often coincide with reduced or negative GDP growth, indicating potential macroeconomic pressure on economic expansion.
+- The presence of sharp fluctuations in both indicators suggests that Nigeria’s economy experiences volatility, where price instability may contribute to uncertain growth performance.
+- While the relationship is not perfectly consistent across all years, the overall pattern indicates that inflationary pressures can have a dampening effect on economic growth.
+
+These observations highlight the importance of maintaining price stability to support sustainable economic development.
+
