@@ -94,6 +94,7 @@ Explores relationships among GDP growth, inflation, oil rents, unemployment, and
 The analysis highlights structural volatility in Nigeria’s macroeconomic performance and establishes a foundation for further multi-variable economic evaluation.
 
 ### 2. Inflation Trend Analysis 
+Assesses price stability, and to identifies inflation volatility over time.
 ## Analysis → Comparative Analysis
 
 ![](gdp_inflation_chart.png)
@@ -108,3 +109,13 @@ The analysis highlights structural volatility in Nigeria’s macroeconomic perfo
 
 These observations highlight the importance of maintaining price stability to support sustainable economic development.
 
+### 3. Oil Rents Analysis
+To evaluates the contribution of oil revenue to the economy and its potential influence on growth.
+
+## Visualization
+
+### Oil Rents Trend
+![Oil Rents](oil_rents_chart.png)
+
+### GDP, Inflation, and Oil Rents Comparison
+![Combined Chart](gdp_inflation_oil_chart.png)
