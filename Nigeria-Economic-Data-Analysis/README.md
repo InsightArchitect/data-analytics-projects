@@ -143,3 +143,5 @@ To evaluates the contribution of oil revenue to the economy and its potential in
 - Nigeria’s unemployment rate exhibits high noticeable fluctuations over time, reflecting instability in the labor market.
 - While the trend shows periods of moderate change, a significant increase is observed around 2020, indicating a sharp rise in unemployment levels.
 - This spike suggests the presence of external or structural shocks affecting employment conditions during that period. Overall, the pattern highlights underlying challenges in job creation and economic absorption capacity, pointing to the need for sustained employment-focused economic strategies.
+
+  ![](gdp_unemployment_chart.png)
