@@ -137,6 +137,8 @@ To evaluates the contribution of oil revenue to the economy and its potential in
 
 ### 4. Unemployment Trend Analysis
 
+![](unemployment_chart.png)
+
 
 - Nigeria’s unemployment rate exhibits high noticeable fluctuations over time, reflecting instability in the labor market.
 - While the trend shows periods of moderate change, a significant increase is observed around 2020, indicating a sharp rise in unemployment levels.
