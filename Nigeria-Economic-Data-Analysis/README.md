@@ -144,4 +144,11 @@ To evaluates the contribution of oil revenue to the economy and its potential in
 - While the trend shows periods of moderate change, a significant increase is observed around 2020, indicating a sharp rise in unemployment levels.
 - This spike suggests the presence of external or structural shocks affecting employment conditions during that period. Overall, the pattern highlights underlying challenges in job creation and economic absorption capacity, pointing to the need for sustained employment-focused economic strategies.
 
+  ### GDP Growth vs Unemployment 
   ![](gdp_unemployment_chart.png)
+  
+  ### Insight
+- The comparative analysis of Nigeria’s GDP growth and unemployment rate reveals a clear relationship between economic performance and labor market conditions.
+- Periods of declining GDP growth are often accompanied by rising unemployment, indicating that slower economic expansion directly affects job creation.
+- The sharp spike in unemployment around 2020 coincides with a period of negative GDP growth, highlighting how economic contractions can exacerbate labor market challenges.
+- Overall, this analysis emphasizes the importance of policies that stimulate growth while simultaneously supporting employment, as these two indicators are closely intertwined.
