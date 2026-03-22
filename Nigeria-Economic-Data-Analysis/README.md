@@ -130,7 +130,14 @@ To evaluates the contribution of oil revenue to the economy and its potential in
 
   ### Comparative Economic Analysis
 
-  - The combined analysis of GDP growth, inflation, and oil rents reveals a complex and volatile macroeconomic relationship. Periods of high oil rents often align with improved economic performance, suggesting that oil revenue plays a significant role in driving growth.
-  - However, fluctuations in inflation and oil rents contribute to instability in GDP growth, indicating that the economy is sensitive to both internal price pressures and external resource dependency.
-  - While oil revenue can support economic expansion, volatility in both inflation and oil rents creates uncertainty in sustained growth.
-  - Overall, the findings suggest that Nigeria’s economic performance is influenced by a combination of oil sector dynamics and macroeconomic stability, highlighting the importance of diversification and effective economic management.
+- The combined analysis of GDP growth, inflation, and oil rents reveals a complex and volatile macroeconomic relationship. Periods of high oil rents often align with improved economic performance, suggesting that oil revenue plays a significant role in driving growth.
+- However, fluctuations in inflation and oil rents contribute to instability in GDP growth, indicating that the economy is sensitive to both internal price pressures and external resource dependency.
+- While oil revenue can support economic expansion, volatility in both inflation and oil rents creates uncertainty in sustained growth.
+- Overall, the findings suggest that Nigeria’s economic performance is influenced by a combination of oil sector dynamics and macroeconomic stability, highlighting the importance of diversification and effective economic management.
+
+### 4. Unemployment Trend Analysis
+
+
+- Nigeria’s unemployment rate exhibits high noticeable fluctuations over time, reflecting instability in the labor market.
+- While the trend shows periods of moderate change, a significant increase is observed around 2020, indicating a sharp rise in unemployment levels.
+- This spike suggests the presence of external or structural shocks affecting employment conditions during that period. Overall, the pattern highlights underlying challenges in job creation and economic absorption capacity, pointing to the need for sustained employment-focused economic strategies.
