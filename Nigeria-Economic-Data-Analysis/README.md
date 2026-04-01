@@ -152,3 +152,13 @@ To evaluates the contribution of oil revenue to the economy and its potential in
 - Periods of declining GDP growth are often accompanied by rising unemployment, indicating that slower economic expansion directly affects job creation.
 - The sharp spike in unemployment around 2020 coincides with a period of negative GDP growth, highlighting how economic contractions can exacerbate labor market challenges.
 - Overall, this analysis emphasizes the importance of policies that stimulate growth while simultaneously supporting employment, as these two indicators are closely intertwined.
+
+
+### 5. Population Growth Trend
+
+![Population Chart](population_chart.png)
+
+- Nigeria’s population has been increasing consistently over the years without any decline.
+- This shows that the country is experiencing continuous population growth.
+- This trend means that while there is a growing workforce and market size, it also puts pressure on employment opportunities, infrastructure, and economic resources.
+- It highlights the need for the economy to grow at a pace that can support the rising population.
