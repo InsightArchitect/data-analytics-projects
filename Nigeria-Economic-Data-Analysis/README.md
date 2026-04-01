@@ -87,27 +87,13 @@ Explores relationships among GDP growth, inflation, oil rents, unemployment, and
 - Periods of negative growth indicate economic contraction.
 - The economy demonstrates volatility, possibly influenced by external factors such as oil price dynamics and global economic conditions.
 
----
-
-## Conclusion
-
-The analysis highlights structural volatility in Nigeria’s macroeconomic performance and establishes a foundation for further multi-variable economic evaluation.
+In conclusion, this analysis highlights structural volatility in Nigeria’s macroeconomic performance and establishes a foundation for further multi-variable economic evaluation.
 
 ### 2. Inflation Trend Analysis 
 Assesses price stability, and to identifies inflation volatility over time.
 ## Analysis → Comparative Analysis
 
-![](gdp_inflation_chart.png)
 
----
-### GDP Growth and Inflation Relationship Insight
-
-- The comparative analysis between GDP growth and inflation reveals a generally inverse and unstable relationship over time.
-- There are periods of high inflation often coincide with reduced or negative GDP growth, indicating potential macroeconomic pressure on economic expansion.
-- The presence of sharp fluctuations in both indicators suggests that Nigeria’s economy experiences volatility, where price instability may contribute to uncertain growth performance.
-- While the relationship is not perfectly consistent across all years, the overall pattern indicates that inflationary pressures can have a dampening effect on economic growth.
-
-These observations highlight the importance of maintaining price stability to support sustainable economic development.
 
 ### 3. Oil Rents Analysis
 To evaluates the contribution of oil revenue to the economy and its potential influence on growth.
