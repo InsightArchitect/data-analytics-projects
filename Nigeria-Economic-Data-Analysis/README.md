@@ -92,20 +92,17 @@ In conclusion, this analysis highlights structural volatility in Nigeria’s mac
 ### 2. Inflation Trend Analysis 
 Assesses price stability, and to identifies inflation volatility over time.
 ## Analysis → Comparative Analysis
+![Inflation](inflation_chart.png)
 
+- Nigeria’s inflation rate also shows frequent fluctuations over time, with periods of sharp increases and occasional declines.
+- This indicates that price levels in the economy are not stable.
+- The unstable nature of inflation suggests that the cost of living can change significantly, affecting both consumers and businesses.
+- High inflation periods may reduce purchasing power and create uncertainty in the economy.
 
-
-### 3. Oil Rents Analysis
+### 3. Oil Rents Trend Analysis
 To evaluates the contribution of oil revenue to the economy and its potential influence on growth.
 
-## Visualization
-
-### Oil Rents Trend
 ![Oil Rents](oil_rents_chrt.png)
-
-### GDP, Inflation, and Oil Rents Comparison
-![Combined Chart](gdp_inflation_oil_chart.png)
-
 
 ### Oil Rents Trend Analysis
 
@@ -114,12 +111,7 @@ To evaluates the contribution of oil revenue to the economy and its potential in
 - And, the pattern highlights the economy’s reliance on the oil sector, where periods of increased oil rents correspond to higher contributions of oil to national income.
 - However, the observed volatility indicates vulnerability to external shocks, reinforcing the need for economic diversification.
 
-  ### Comparative Economic Analysis
 
-- The combined analysis of GDP growth, inflation, and oil rents reveals a complex and volatile macroeconomic relationship. Periods of high oil rents often align with improved economic performance, suggesting that oil revenue plays a significant role in driving growth.
-- However, fluctuations in inflation and oil rents contribute to instability in GDP growth, indicating that the economy is sensitive to both internal price pressures and external resource dependency.
-- While oil revenue can support economic expansion, volatility in both inflation and oil rents creates uncertainty in sustained growth.
-- Overall, the findings suggest that Nigeria’s economic performance is influenced by a combination of oil sector dynamics and macroeconomic stability, highlighting the importance of diversification and effective economic management.
 
 ### 4. Unemployment Trend Analysis
 
