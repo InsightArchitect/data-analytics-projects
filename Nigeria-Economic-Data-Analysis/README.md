@@ -155,8 +155,11 @@ To evaluates the contribution of oil revenue to the economy and its potential in
 
 
 ### 5. Population Growth Trend
+Analyzes demographic changes and their impact on economic development.
 
 ![Population Chart](population_chart.png)
+
+##Insiht 
 
 - Nigeria’s population has been increasing consistently over the years without any decline.
 - This shows that the country is experiencing continuous population growth.
