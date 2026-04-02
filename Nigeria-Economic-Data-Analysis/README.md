@@ -137,7 +137,7 @@ Analyzes demographic changes and their impact on economic development.
 
 ![Population Chart](population_chart.png)
 
-##Insiht 
+## Key Insiht 
 
 - Nigeria’s population has been increasing consistently over the years without any decline.
 - This shows that the country is experiencing continuous population growth.
