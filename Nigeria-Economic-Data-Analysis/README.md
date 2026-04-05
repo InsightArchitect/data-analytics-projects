@@ -102,7 +102,7 @@ Assesses price stability, and to identifies inflation volatility over time.
 ### 3. Oil Rents Trend Analysis
 To evaluates the contribution of oil revenue to the economy and its potential influence on growth.
 
-![Oil Rents](oil_rents_chrt.png)
+![Oil Rents](oil_rents_chart.png)
 
 ### Oil Rents Trend Analysis
 
