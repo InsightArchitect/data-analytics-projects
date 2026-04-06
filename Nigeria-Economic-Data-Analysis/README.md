@@ -172,8 +172,16 @@ The comparative analysis was carried out by plotting selected indicators on the 
 
 ### GDP Growth vs Unemployment Analysis
 
+![Chart](gdp_vs_unemployment_chart.png)
+
 ### GDP Growth vs Inflation Analysis
+
+![Chart](gdp_vs_inflation_chart.png)
 
 ### GDP Growth vs Oil Rents Analysis
 
+![Chart](gdp_vs_oil-rents_chart.png)
+
 ### Population vs Unemployment Analysis
+
+![Chart](unemployment_vs_population_chart.png)
