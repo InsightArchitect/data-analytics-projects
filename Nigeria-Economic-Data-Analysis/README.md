@@ -131,15 +131,35 @@ To evaluates the contribution of oil revenue to the economy and its potential in
 - The sharp spike in unemployment around 2020 coincides with a period of negative GDP growth, highlighting how economic contractions can exacerbate labor market challenges.
 - Overall, this analysis emphasizes the importance of policies that stimulate growth while simultaneously supporting employment, as these two indicators are closely intertwined.
 
-
 ### 5. Population Growth Trend
 Analyzes demographic changes and their impact on economic development.
 
 ![Population Chart](population_chart.png)
 
-## Key Insiht 
+## Key Insight 
 
 - Nigeria’s population has been increasing consistently over the years without any decline.
 - This shows that the country is experiencing continuous population growth.
+
+
+## Comparative Analysis
+
+### Overview
+
+This section focuses on examining the relationships between key macroeconomic indicators in Nigeria. By comparing variables such as GDP growth, inflation, oil rents, unemployment, and population, the analysis aims to uncover patterns and connections that may not be visible when each indicator is studied individually.
+
+The purpose of this comparative approach is to better understand how economic performance, price stability, resource dependency, and demographic changes interact over time.
+
+---
+
+### Objectives
+
+The objectives of the comparative analysis are to:
+
+- Examine the relationship between GDP growth and unemployment to understand how economic performance affects job creation  
+- Analyze the interaction between GDP growth and inflation to assess the impact of price stability on economic growth  
+- Evaluate the connection between GDP growth and oil rents to determine the extent of Nigeria’s dependence on oil revenue  
+- Explore the relationship between population growth and unemployment to assess the pressure of population on employment opportunities  
+- Identify patterns and trends across multiple indicators to support deeper economic insights  
 - This trend means that while there is a growing workforce and market size, it also puts pressure on employment opportunities, infrastructure, and economic resources.
 - It highlights the need for the economy to grow at a pace that can support the rising population.
