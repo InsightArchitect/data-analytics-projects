@@ -163,3 +163,17 @@ The objectives of the comparative analysis are to:
 - Identify patterns and trends across multiple indicators to support deeper economic insights  
 - This trend means that while there is a growing workforce and market size, it also puts pressure on employment opportunities, infrastructure, and economic resources.
 - It highlights the need for the economy to grow at a pace that can support the rising population.
+
+### Approach
+
+The comparative analysis was carried out by plotting selected indicators on the same time axis to observe relationships and trends between variables over time.
+
+## Analysis
+
+### GDP Growth vs Unemployment Analysis
+
+### GDP Growth vs Inflation Analysis
+
+### GDP Growth vs Oil Rents Analysis
+
+### Population vs Unemployment Analysis
